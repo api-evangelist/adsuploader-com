@@ -72,20 +72,99 @@ Ads Uploader enables bulk launch of Meta ads in minutes—simple, fast, unlimite
 
 Everything profiled for Ads Uploader is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/adsuploader-com/](https://apis.io/providers/adsuploader-com/)** — or go straight to one of the APIs or properties below.
 
+### APIs (1)
+
+- [Ads Uploader API](https://apis.io/apis/adsuploader-com/ads-uploader-api/) — Ads Uploader provides an API for bulk uploading Meta ads.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Adsuploader Com Authentication](https://apis.io/security/adsuploader-com/adsuploader-com-authentication/)
+- [Adsuploader Com Domain Security](https://apis.io/security/adsuploader-com/adsuploader-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Adsuploader Com Scopes](https://apis.io/scopes/adsuploader-com/adsuploader-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Adsuploader Com Plans Pricing](https://apis.io/plans/adsuploader-com/adsuploader-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Adsuploader Com Rate Limits](https://apis.io/rate-limits/adsuploader-com/adsuploader-com-rate-limits/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://adsuploader.com/)
 - [Documentation](https://adsuploader.com/docs)
+- [Getting started](https://adsuploader.com/docs/quick-start)
 - [API reference](https://adsuploader.com/docs)
 - [Pricing](https://adsuploader.com/pricing)
 - [Sign up](https://adsuploader.com/signup)
+- [Support](https://adsuploader.com/docs/support)
 - [Blog](https://adsuploader.com/blog)
+- [Terms of service](https://adsuploader.com/terms-of-service)
+- [Privacy policy](https://adsuploader.com/privacy-policy)
+- [GitHub](https://github.com/adsuploader)
+- [Status](https://status.adsuploader.com/)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/adsuploader-com/](https://apis.io/providers/adsuploader-com/).
+**Kin Score 34.3** — thin · rubric 0.26.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 54.8 |
+| Access clarity | 63.7 |
+
+**Agent readiness 24.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adsuploader-com/](https://apis.io/providers/adsuploader-com/).
 
 ## How this profile is made
 
