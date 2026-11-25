@@ -80,30 +80,36 @@ Everything profiled for Ads Uploader is published on APIs.io rather than in this
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [adsuploader-com-mcp.yml](https://apis.io/servers/adsuploader-com/adsuploader-com-mcp-yml/)
+
 #### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adsuploader Com Authentication](https://apis.io/security/adsuploader-com/adsuploader-com-authentication/)
-- [Adsuploader Com Domain Security](https://apis.io/security/adsuploader-com/adsuploader-com-domain-security/)
+- [Ads Uploader Authentication](https://apis.io/security/adsuploader-com/adsuploader-com-authentication/)
+- [Ads Uploader Domain Security](https://apis.io/security/adsuploader-com/adsuploader-com-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Adsuploader Com Scopes](https://apis.io/scopes/adsuploader-com/adsuploader-com-scopes/)
+- [Ads Uploader Scopes](https://apis.io/scopes/adsuploader-com/adsuploader-com-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Adsuploader Com Plans Pricing](https://apis.io/plans/adsuploader-com/adsuploader-com-plans-pricing/)
+- [Ads Uploader Plans Pricing](https://apis.io/plans/adsuploader-com/adsuploader-com-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Adsuploader Com Rate Limits](https://apis.io/rate-limits/adsuploader-com/adsuploader-com-rate-limits/)
+- [Ads Uploader Rate Limits](https://apis.io/rate-limits/adsuploader-com/adsuploader-com-rate-limits/)
 
 ## Where to find this API
 
@@ -124,18 +130,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 34.3** — thin · rubric 0.26.0 · scored 2026-10-31
+**Kin Score 33.6** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
 | Discoverability | 56.7 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 21.1 |
+| Operational transparency | 19.0 |
 | Developer ergonomics | 54.8 |
-| Access clarity | 63.7 |
+| Access clarity | 66.0 |
 
-**Agent readiness 24.3** — agent-aware
+**Agent readiness 24.2** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -161,8 +167,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 23.5** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adsuploader-com/](https://apis.io/providers/adsuploader-com/).
 
